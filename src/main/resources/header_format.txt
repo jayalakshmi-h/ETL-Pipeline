@@ -1,0 +1,12 @@
+HEADREC,1,1,string
+ID,2,12,string
+YEAR,14,17,string
+MONTH,19,20,string
+DAY,22,23,string
+HOUR,25,26,int
+RELTIME,28,31,int
+NUMLEV,33,36,int
+P_SRC,38,45,string
+NP_SRC,47,54,string
+LAT,56,62,int
+LON,64,71,int

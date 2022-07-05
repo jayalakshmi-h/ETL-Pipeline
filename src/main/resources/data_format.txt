@@ -1,0 +1,13 @@
+LVLTYP1,1,1,int
+LVLTYP2,2,2,int
+ETIME,4,8,int
+PRESS,10,15,int
+PFLAG,16,16,string
+GPH,17,21,int
+ZFLAG,22,22,string
+TEMP,23,27,int
+TFLAG,28,28,string
+RH,29,33,int
+DPDP,35,39,int
+WDIR,41,45,int
+WSPD,47,51,int
